@@ -1,10 +1,21 @@
-div{
+.content{
     background-color: aquamarine;
 }
-.img{
-    height: 400px;
-    border-radius: 130px;
-    position: relative;    
-    align-items: center;
+img{
+    height: 200px;
+    border-radius: 170px;
+}
+.container{
+    border: 5px solid black;
+    margin: 0px 850px;
+    background-color: black;
+    border-radius: 150px;
+    display: flex;
+    justify-content: center;
     
+}
+h2{
+    text-align: center;
+    text-decoration: underline;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
